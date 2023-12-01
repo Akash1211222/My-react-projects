@@ -4,7 +4,7 @@ import Navbar from "./components/Navbar";
 import Filter from "./components/Filter";
 import Cards from "./components/Cards";
 import { apiUrl, filterData } from "./data";
-import { toast } from "react-toastify";
+
 
 const App = () => {
   const [courses, setCourses] = useState(null);
@@ -41,4 +41,4 @@ export default App;
 // bcript salt
 // cookies
 
-aut
+// aut
